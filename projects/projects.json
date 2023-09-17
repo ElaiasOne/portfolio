@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mr.Firulays",
+    "desc": "Este proyecto es un programa desarrollado en Python para una veterinaria que permite administrar pacientes y sus consultas.",
+    "image": "mrfirulays",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "https://github.com/ElaiasOne/Mr.Firulays/tree/master"
+    }
+  },
+  {
+    "name": "Futuro proyecto",
+    "desc": "Breve descripcion del proyecto",
+    "image": "nombre de la imagen",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "url para ver codigo github"
+    }
+  },
+  {
+    "name": "Futuro proyecto",
+    "desc": "Breve descripcion del proyecto",
+    "image": "nombre de la imagen",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "url para ver codigo github"
+    }
+  },
+  {
+    "name": "Futuro proyecto",
+    "desc": "Breve descripcion del proyecto",
+    "image": "nombre de la imagen",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "url para ver codigo github"
+    }
+  },
+  {
+    "name": "Futuro proyecto",
+    "desc": "Breve descripcion del proyecto",
+    "image": "nombre de la imagen",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "url para ver codigo github"
+    }
+  },
+  {
+    "name": "Futuro proyecto",
+    "desc": "Breve descripcion del proyecto",
+    "image": "nombre de la imagen",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "url para ver codigo github"
+    }
+  }
+]
