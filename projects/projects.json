@@ -10,23 +10,23 @@
     }
   },
   {
-    "name": "Futuro proyecto",
-    "desc": "Breve descripcion del proyecto",
-    "image": "nombre de la imagen",
+    "name": "Testimonios",
+    "desc": "Este proyecto React es parte de la página web FigueroaCoach. En esta sección, se muestran testimonios de personas que han experimentado y beneficiado del entrenamiento con FigueroaCoach.",
+    "image": "testimonios",
     "category": "categoria",
     "links": {
       "view": "url para ver pagina",
-      "code": "url para ver codigo github"
+      "code": "https://github.com/ElaiasOne/TestimoniosFigueroaCoach"
     }
   },
   {
-    "name": "Futuro proyecto",
-    "desc": "Breve descripcion del proyecto",
-    "image": "nombre de la imagen",
+    "name": "Contador de Clics",
+    "desc": "Este proyecto es un simple contador de clics implementado en ReactJS. Permite a los usuarios realizar un seguimiento del número de clics en un botón específico y visualizar el resultado en tiempo real.",
+    "image": "contadorclics",
     "category": "categoria",
     "links": {
       "view": "url para ver pagina",
-      "code": "url para ver codigo github"
+      "code": "https://github.com/ElaiasOne/ContadorDeClics"
     }
   },
   {
