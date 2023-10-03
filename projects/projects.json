@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Futuro proyecto",
-    "desc": "Breve descripcion del proyecto",
-    "image": "nombre de la imagen",
+    "name": "Calculadora",
+    "desc": "Este proyecto es una calculadora simple implementada en ReactJS. Permite a los usuarios realizar operaciones matemáticas básicas y visualizar el resultado en tiempo real.",
+    "image": "calculadora",
     "category": "categoria",
     "links": {
       "view": "url para ver pagina",
-      "code": "url para ver codigo github"
+      "code": "https://github.com/ElaiasOne/CalculadoraReact"
     }
   },
   {
