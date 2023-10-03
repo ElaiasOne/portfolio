@@ -11,7 +11,7 @@
   },
   {
     "name": "Testimonios",
-    "desc": "Este proyecto React es parte de la página web FigueroaCoach. En esta sección, se muestran testimonios de personas que han experimentado y beneficiado del entrenamiento con FigueroaCoach.",
+    "desc": "Este proyecto React es parte de la página web FigueroaCoach. Se muestran testimonios de personas.",
     "image": "testimonios",
     "category": "categoria",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Contador de Clics",
-    "desc": "Este proyecto es un simple contador de clics implementado en ReactJS. Permite a los usuarios realizar un seguimiento del número de clics en un botón específico y visualizar el resultado en tiempo real.",
+    "desc": "Este proyecto es un simple contador de clics implementado en ReactJS.",
     "image": "contadorclics",
     "category": "categoria",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Calculadora",
-    "desc": "Este proyecto es una calculadora simple implementada en ReactJS. Permite a los usuarios realizar operaciones matemáticas básicas y visualizar el resultado en tiempo real.",
+    "desc": "Este proyecto es una calculadora simple implementada en ReactJS. Permite a los usuarios realizar operaciones matemáticas básicas.",
     "image": "calculadora",
     "category": "categoria",
     "links": {
