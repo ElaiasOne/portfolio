@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Futuro proyecto",
-    "desc": "Breve descripcion del proyecto",
-    "image": "nombre de la imagen",
+    "name": "Aplicacion Tareas",
+    "desc": "Puedes agregar una tarea, eliminarla de la lista y marcarla como completada.",
+    "image": "aplicaciontareas",
     "category": "categoria",
     "links": {
       "view": "url para ver pagina",
-      "code": "url para ver codigo github"
+      "code": "https://github.com/ElaiasOne/AplicacionTareasReactjs"
     }
   },
   {
