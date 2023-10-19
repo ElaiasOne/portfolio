@@ -50,13 +50,13 @@
     }
   },
   {
-    "name": "Futuro proyecto",
-    "desc": "Breve descripcion del proyecto",
-    "image": "nombre de la imagen",
+    "name": "Gestión de Empleados",
+    "desc": "Este proyecto implementa un CRUD completo para gestionar empleados",
+    "image": "crud",
     "category": "categoria",
     "links": {
       "view": "url para ver pagina",
-      "code": "url para ver codigo github"
+      "code": "https://github.com/ElaiasOne/crud-react-node-mysql-bootstrap"
     }
   }
 ]
