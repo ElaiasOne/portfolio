@@ -58,5 +58,15 @@
       "view": "url para ver pagina",
       "code": "https://github.com/ElaiasOne/crud-react-node-mysql-bootstrap"
     }
+  },
+  {
+    "name": "Gestión de Inventarios",
+    "desc": "Este es un proyecto Django para gestionar inventario de productos.",
+    "image": "adm_empresas_python_django",
+    "category": "categoria",
+    "links": {
+      "view": "url para ver pagina",
+      "code": "https://github.com/ElaiasOne/adm_empresas_python_django"
+    }
   }
 ]
