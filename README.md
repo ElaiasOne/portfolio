@@ -1,6 +1,6 @@
 # Portafolio de Elias Figueroa
 
-¡Bienvenido a mi portafolio en línea! Soy Elias Figueroa, un apasionado Desarrolador Junior con experiencia en HTML5, CSS3, JAVASCRIPT, MYSQL, REACTJS, NODEJS, BOOTSTRAP, NETLIFY, GIT VCS, GIT BASH, GIT HUB.
+¡Bienvenido a mi portafolio en línea! Soy Elias Figueroa, un apasionado Desarrolador Junior con experiencia en HTML5, CSS3, JAVASCRIPT, SQL, REACTJS, NODEJS, BOOTSTRAP, NETLIFY, GIT VCS, GIT BASH, GIT HUB.
 
 ## Acerca de Mí
 
